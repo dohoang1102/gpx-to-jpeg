@@ -1,0 +1,800 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" creator="gps4cam - http://gps4cam.com" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="http://gps4cam.com">
+      <text>gps4cam</text>
+    </link>
+  </metadata>
+      <wpt lat="55.9393356261" lon="-3.2256063048">
+        <time>2011-10-28T06:18:56Z</time>
+        <name>day 1: 28 Oct 2011 07:18:56</name>
+      </wpt>
+      <wpt lat="55.9454059835" lon="-3.2173825956">
+        <time>2011-10-28T06:29:04Z</time>
+        <name>day 1: 28 Oct 2011 07:29:04</name>
+      </wpt>
+      <wpt lat="55.9595292167" lon="-3.2550899889">
+        <time>2011-10-28T06:39:12Z</time>
+        <name>day 1: 28 Oct 2011 07:39:12</name>
+      </wpt>
+      <wpt lat="55.9795997268" lon="-3.3495915668">
+        <time>2011-10-28T06:48:56Z</time>
+        <name>day 1: 28 Oct 2011 07:48:56</name>
+      </wpt>
+      <wpt lat="56.0519313356" lon="-3.3969698143">
+        <time>2011-10-28T06:59:04Z</time>
+        <name>day 1: 28 Oct 2011 07:59:04</name>
+      </wpt>
+      <wpt lat="56.1322515610" lon="-3.2482451108">
+        <time>2011-10-28T07:09:20Z</time>
+        <name>day 1: 28 Oct 2011 08:09:20</name>
+      </wpt>
+      <wpt lat="56.2023447103" lon="-3.1565872962">
+        <time>2011-10-28T07:19:20Z</time>
+        <name>day 1: 28 Oct 2011 08:19:20</name>
+      </wpt>
+      <wpt lat="56.3056989297" lon="-3.1224111178">
+        <time>2011-10-28T07:29:04Z</time>
+        <name>day 1: 28 Oct 2011 08:29:04</name>
+      </wpt>
+      <wpt lat="56.3742559226" lon="-3.0375404499">
+        <time>2011-10-28T07:39:12Z</time>
+        <name>day 1: 28 Oct 2011 08:39:12</name>
+      </wpt>
+      <wpt lat="56.4405823759" lon="-2.9332465049">
+        <time>2011-10-28T07:49:12Z</time>
+        <name>day 1: 28 Oct 2011 08:49:12</name>
+      </wpt>
+      <wpt lat="56.4796271963" lon="-2.9153694115">
+        <time>2011-10-28T07:58:56Z</time>
+        <name>day 1: 28 Oct 2011 08:58:56</name>
+      </wpt>
+      <wpt lat="56.5092934854" lon="-2.7809652922">
+        <time>2011-10-28T08:09:20Z</time>
+        <name>day 1: 28 Oct 2011 09:09:20</name>
+      </wpt>
+      <wpt lat="56.5534194361" lon="-2.5868894566">
+        <time>2011-10-28T08:19:12Z</time>
+        <name>day 1: 28 Oct 2011 09:19:12</name>
+      </wpt>
+      <wpt lat="56.5609609654" lon="-2.5855122277">
+        <time>2011-10-28T08:29:12Z</time>
+        <name>day 1: 28 Oct 2011 09:29:12</name>
+      </wpt>
+      <wpt lat="56.6473649193" lon="-2.5381196040">
+        <time>2011-10-28T08:39:12Z</time>
+        <name>day 1: 28 Oct 2011 09:39:12</name>
+      </wpt>
+      <wpt lat="56.7103884780" lon="-2.4715790084">
+        <time>2011-10-28T08:49:20Z</time>
+        <name>day 1: 28 Oct 2011 09:49:20</name>
+      </wpt>
+      <wpt lat="56.7103180593" lon="-2.4716369845">
+        <time>2011-10-28T08:59:20Z</time>
+        <name>day 1: 28 Oct 2011 09:59:20</name>
+      </wpt>
+      <wpt lat="56.7213859863" lon="-2.4660016724">
+        <time>2011-10-28T09:09:20Z</time>
+        <name>day 1: 28 Oct 2011 10:09:20</name>
+      </wpt>
+      <wpt lat="56.7745111724" lon="-2.4165499941">
+        <time>2011-10-28T09:19:04Z</time>
+        <name>day 1: 28 Oct 2011 10:19:04</name>
+      </wpt>
+      <wpt lat="56.8538138023" lon="-2.2720199725">
+        <time>2011-10-28T09:29:28Z</time>
+        <name>day 1: 28 Oct 2011 10:29:28</name>
+      </wpt>
+      <wpt lat="56.9478180479" lon="-2.2212190537">
+        <time>2011-10-28T09:39:20Z</time>
+        <name>day 1: 28 Oct 2011 10:39:20</name>
+      </wpt>
+      <wpt lat="56.9456937112" lon="-2.2016943242">
+        <time>2011-10-28T09:49:36Z</time>
+        <name>day 1: 28 Oct 2011 10:49:36</name>
+      </wpt>
+      <wpt lat="56.9460124346" lon="-2.2007546760">
+        <time>2011-10-28T09:59:12Z</time>
+        <name>day 1: 28 Oct 2011 10:59:12</name>
+      </wpt>
+      <wpt lat="56.9447207286" lon="-2.2010228723">
+        <time>2011-10-28T10:09:12Z</time>
+        <name>day 1: 28 Oct 2011 11:09:12</name>
+      </wpt>
+      <wpt lat="56.9433343465" lon="-2.1980005516">
+        <time>2011-10-28T10:19:44Z</time>
+        <name>day 1: 28 Oct 2011 11:19:44</name>
+      </wpt>
+      <wpt lat="56.9430741936" lon="-2.2003739011">
+        <time>2011-10-28T10:29:20Z</time>
+        <name>day 1: 28 Oct 2011 11:29:20</name>
+      </wpt>
+      <wpt lat="56.9457447711" lon="-2.2032691259">
+        <time>2011-10-28T10:39:12Z</time>
+        <name>day 1: 28 Oct 2011 11:39:12</name>
+      </wpt>
+      <wpt lat="56.9569318705" lon="-2.2040520589">
+        <time>2011-10-28T10:48:56Z</time>
+        <name>day 1: 28 Oct 2011 11:48:56</name>
+      </wpt>
+      <wpt lat="56.9670025770" lon="-2.2359719462">
+        <time>2011-10-28T10:58:56Z</time>
+        <name>day 1: 28 Oct 2011 11:58:56</name>
+      </wpt>
+      <wpt lat="57.0134133494" lon="-2.3708111545">
+        <time>2011-10-28T11:09:44Z</time>
+        <name>day 1: 28 Oct 2011 12:09:44</name>
+      </wpt>
+      <wpt lat="57.0565065692" lon="-2.4229271862">
+        <time>2011-10-28T11:19:12Z</time>
+        <name>day 1: 28 Oct 2011 12:19:12</name>
+      </wpt>
+      <wpt lat="57.0733487146" lon="-2.5053586668">
+        <time>2011-10-28T11:29:12Z</time>
+        <name>day 1: 28 Oct 2011 12:29:12</name>
+      </wpt>
+      <wpt lat="57.1219763068" lon="-2.6650570213">
+        <time>2011-10-28T11:39:04Z</time>
+        <name>day 1: 28 Oct 2011 12:39:04</name>
+      </wpt>
+      <wpt lat="57.1788774800" lon="-2.7092303957">
+        <time>2011-10-28T11:49:20Z</time>
+        <name>day 1: 28 Oct 2011 12:49:20</name>
+      </wpt>
+      <wpt lat="57.1741203021" lon="-2.7182659416">
+        <time>2011-10-28T11:59:36Z</time>
+        <name>day 1: 28 Oct 2011 12:59:36</name>
+      </wpt>
+      <wpt lat="57.1757987620" lon="-2.7171597739">
+        <time>2011-10-28T12:18:56Z</time>
+        <name>day 1: 28 Oct 2011 13:18:56</name>
+      </wpt>
+      <wpt lat="57.1759318642" lon="-2.7171857310">
+        <time>2011-10-28T12:29:04Z</time>
+        <name>day 1: 28 Oct 2011 13:29:04</name>
+      </wpt>
+      <wpt lat="57.1759399877" lon="-2.7170439636">
+        <time>2011-10-28T12:39:20Z</time>
+        <name>day 1: 28 Oct 2011 13:39:20</name>
+      </wpt>
+      <wpt lat="57.2379509598" lon="-2.7247060001">
+        <time>2011-10-28T12:49:04Z</time>
+        <name>day 1: 28 Oct 2011 13:49:04</name>
+      </wpt>
+      <wpt lat="57.2544900676" lon="-2.8745797587">
+        <time>2011-10-28T12:59:04Z</time>
+        <name>day 1: 28 Oct 2011 13:59:04</name>
+      </wpt>
+      <wpt lat="57.2363618640" lon="-2.9058510049">
+        <time>2011-10-28T13:09:12Z</time>
+        <name>day 1: 28 Oct 2011 14:09:12</name>
+      </wpt>
+      <wpt lat="57.2358262686" lon="-2.9023681034">
+        <time>2011-10-28T13:38:56Z</time>
+        <name>day 1: 28 Oct 2011 14:38:56</name>
+      </wpt>
+      <wpt lat="57.2454720258" lon="-2.8859881913">
+        <time>2011-10-28T13:48:56Z</time>
+        <name>day 1: 28 Oct 2011 14:48:56</name>
+      </wpt>
+      <wpt lat="57.3311155303" lon="-2.8291182512">
+        <time>2011-10-28T13:59:12Z</time>
+        <name>day 1: 28 Oct 2011 14:59:12</name>
+      </wpt>
+      <wpt lat="57.3230675394" lon="-2.9780362352">
+        <time>2011-10-28T14:09:04Z</time>
+        <name>day 1: 28 Oct 2011 15:09:04</name>
+      </wpt>
+      <wpt lat="57.3843618165" lon="-3.0609672928">
+        <time>2011-10-28T14:19:20Z</time>
+        <name>day 1: 28 Oct 2011 15:19:20</name>
+      </wpt>
+      <wpt lat="57.4402976886" lon="-3.1082032000">
+        <time>2011-10-28T14:29:20Z</time>
+        <name>day 1: 28 Oct 2011 15:29:20</name>
+      </wpt>
+      <wpt lat="57.4505645294" lon="-3.1298685927">
+        <time>2011-10-28T14:38:56Z</time>
+        <name>day 1: 28 Oct 2011 15:38:56</name>
+      </wpt>
+      <wpt lat="57.4545330025" lon="-3.1277399604">
+        <time>2011-10-28T14:48:56Z</time>
+        <name>day 1: 28 Oct 2011 15:48:56</name>
+      </wpt>
+      <wpt lat="57.4544621604" lon="-3.1277973378">
+        <time>2011-10-28T14:58:56Z</time>
+        <name>day 1: 28 Oct 2011 15:58:56</name>
+      </wpt>
+      <wpt lat="57.4507770298" lon="-3.1296963063">
+        <time>2011-10-28T15:08:56Z</time>
+        <name>day 1: 28 Oct 2011 16:08:56</name>
+      </wpt>
+      <wpt lat="57.4505645031" lon="-3.1298684185">
+        <time>2011-10-28T15:28:56Z</time>
+        <name>day 1: 28 Oct 2011 16:28:56</name>
+      </wpt>
+      <wpt lat="57.4505645031" lon="-3.1298684185">
+        <time>2011-10-28T15:38:56Z</time>
+        <name>day 1: 28 Oct 2011 16:38:56</name>
+      </wpt>
+      <wpt lat="57.4505645031" lon="-3.1298684185">
+        <time>2011-10-28T15:48:56Z</time>
+        <name>day 1: 28 Oct 2011 16:48:56</name>
+      </wpt>
+      <wpt lat="57.4505645031" lon="-3.1298684185">
+        <time>2011-10-28T15:59:12Z</time>
+        <name>day 1: 28 Oct 2011 16:59:12</name>
+      </wpt>
+      <wpt lat="57.4508652501" lon="-3.1293535015">
+        <time>2011-10-28T16:08:56Z</time>
+        <name>day 1: 28 Oct 2011 17:08:56</name>
+      </wpt>
+      <wpt lat="57.4505731921" lon="-3.1297257021">
+        <time>2011-10-28T16:18:56Z</time>
+        <name>day 1: 28 Oct 2011 17:18:56</name>
+      </wpt>
+      <wpt lat="57.4531248335" lon="-3.1287446344">
+        <time>2011-10-28T16:28:56Z</time>
+        <name>day 1: 28 Oct 2011 17:28:56</name>
+      </wpt>
+      <wpt lat="57.4860306794" lon="-3.1843612033">
+        <time>2011-10-28T16:39:12Z</time>
+        <name>day 1: 28 Oct 2011 17:39:12</name>
+      </wpt>
+      <wpt lat="57.4325211242" lon="-3.3249591018">
+        <time>2011-10-28T16:49:04Z</time>
+        <name>day 1: 28 Oct 2011 17:49:04</name>
+      </wpt>
+      <wpt lat="57.3892126832" lon="-3.4596510432">
+        <time>2011-10-28T16:59:28Z</time>
+        <name>day 1: 28 Oct 2011 17:59:28</name>
+      </wpt>
+      <wpt lat="57.3210075542" lon="-3.5790587554">
+        <time>2011-10-28T17:08:56Z</time>
+        <name>day 1: 28 Oct 2011 18:08:56</name>
+      </wpt>
+      <wpt lat="57.2608893656" lon="-3.7432999106">
+        <time>2011-10-28T17:19:28Z</time>
+        <name>day 1: 28 Oct 2011 18:19:28</name>
+      </wpt>
+      <wpt lat="57.1883224160" lon="-3.8299916798">
+        <time>2011-10-28T17:29:28Z</time>
+        <name>day 1: 28 Oct 2011 18:29:28</name>
+      </wpt>
+      <wpt lat="57.1940519170" lon="-3.8289773034">
+        <time>2011-10-28T17:38:56Z</time>
+        <name>day 1: 28 Oct 2011 18:38:56</name>
+      </wpt>
+      <wpt lat="57.1865823395" lon="-3.8308221867">
+        <time>2011-10-28T17:48:56Z</time>
+        <name>day 1: 28 Oct 2011 18:48:56</name>
+      </wpt>
+      <wpt lat="57.1865823395" lon="-3.8308221867">
+        <time>2011-10-28T17:55:12Z</time>
+        <name>day 1: 28 Oct 2011 18:55:12</name>
+      </wpt>
+      <wpt lat="57.3347430895" lon="-4.6355533856">
+        <time>2011-10-29T07:44:40Z</time>
+        <name>Press Edit to change the name: 29 Oct 2011 08:44:40</name>
+      </wpt>
+      <wpt lat="57.3461324518" lon="-4.7630913772">
+        <time>2011-10-29T07:55:12Z</time>
+        <name>Press Edit to change the name: 29 Oct 2011 08:55:12</name>
+      </wpt>
+      <wpt lat="57.3126895096" lon="-4.8549824255">
+        <time>2011-10-29T08:04:48Z</time>
+        <name>Press Edit to change the name: 29 Oct 2011 09:04:48</name>
+      </wpt>
+      <wpt lat="57.2918646057" lon="-4.9153884472">
+        <time>2011-10-29T08:14:40Z</time>
+        <name>Press Edit to change the name: 29 Oct 2011 09:14:40</name>
+      </wpt>
+      <wpt lat="57.2814318611" lon="-4.9339483891">
+        <time>2011-10-29T08:24:48Z</time>
+        <name>Press Edit to change the name: 29 Oct 2011 09:24:48</name>
+      </wpt>
+      <wpt lat="57.2650237139" lon="-4.9845155796">
+        <time>2011-10-29T08:34:56Z</time>
+        <name>Press Edit to change the name: 29 Oct 2011 09:34:56</name>
+      </wpt>
+      <wpt lat="57.2661190960" lon="-4.9870319280">
+        <time>2011-10-29T08:44:48Z</time>
+        <name>Press Edit to change the name: 29 Oct 2011 09:44:48</name>
+      </wpt>
+      <wpt lat="57.2690880737" lon="-4.9680979469">
+        <time>2011-10-29T09:44:48Z</time>
+        <name>Press Edit to change the name: 29 Oct 2011 10:44:48</name>
+      </wpt>
+      <wpt lat="57.3410762109" lon="-4.7715336052">
+        <time>2011-10-29T10:04:24Z</time>
+        <name>Press Edit to change the name: 29 Oct 2011 11:04:24</name>
+      </wpt>
+      <wpt lat="57.3299259963" lon="-4.7900385136">
+        <time>2011-10-29T10:14:24Z</time>
+        <name>Press Edit to change the name: 29 Oct 2011 11:14:24</name>
+      </wpt>
+      <wpt lat="57.3581831752" lon="-4.8767612761">
+        <time>2011-10-29T10:25:04Z</time>
+        <name>Press Edit to change the name: 29 Oct 2011 11:25:04</name>
+      </wpt>
+      <wpt lat="57.3431298969" lon="-4.9356674894">
+        <time>2011-10-29T10:34:48Z</time>
+        <name>Press Edit to change the name: 29 Oct 2011 11:34:48</name>
+      </wpt>
+      <wpt lat="57.3398666396" lon="-4.9612860458">
+        <time>2011-10-29T10:44:40Z</time>
+        <name>Press Edit to change the name: 29 Oct 2011 11:44:40</name>
+      </wpt>
+      <wpt lat="57.3397844521" lon="-4.9614817966">
+        <time>2011-10-29T10:54:56Z</time>
+        <name>Press Edit to change the name: 29 Oct 2011 11:54:56</name>
+      </wpt>
+      <wpt lat="57.3402325797" lon="-4.9618136202">
+        <time>2011-10-29T11:04:56Z</time>
+        <name>Press Edit to change the name: 29 Oct 2011 12:04:56</name>
+      </wpt>
+      <wpt lat="57.3399276303" lon="-4.9613739726">
+        <time>2011-10-29T11:14:48Z</time>
+        <name>Press Edit to change the name: 29 Oct 2011 12:14:48</name>
+      </wpt>
+      <wpt lat="57.3542256448" lon="-4.9009106559">
+        <time>2011-10-29T11:24:48Z</time>
+        <name>Press Edit to change the name: 29 Oct 2011 12:24:48</name>
+      </wpt>
+      <wpt lat="57.3519121139" lon="-4.8005623038">
+        <time>2011-10-29T11:34:40Z</time>
+        <name>Press Edit to change the name: 29 Oct 2011 12:34:40</name>
+      </wpt>
+      <wpt lat="57.3466368967" lon="-4.7647580946">
+        <time>2011-10-29T11:44:24Z</time>
+        <name>Press Edit to change the name: 29 Oct 2011 12:44:24</name>
+      </wpt>
+      <wpt lat="57.4170320876" lon="-4.6678174064">
+        <time>2011-10-29T11:54:56Z</time>
+        <name>Press Edit to change the name: 29 Oct 2011 12:54:56</name>
+      </wpt>
+      <wpt lat="57.4652082038" lon="-4.5322428495">
+        <time>2011-10-29T12:04:56Z</time>
+        <name>Press Edit to change the name: 29 Oct 2011 13:04:56</name>
+      </wpt>
+      <wpt lat="57.4835122033" lon="-4.4591935209">
+        <time>2011-10-29T12:14:40Z</time>
+        <name>Press Edit to change the name: 29 Oct 2011 13:14:40</name>
+      </wpt>
+      <wpt lat="57.4835430987" lon="-4.4597086431">
+        <time>2011-10-29T12:24:48Z</time>
+        <name>Press Edit to change the name: 29 Oct 2011 13:24:48</name>
+      </wpt>
+      <wpt lat="57.5461717977" lon="-4.5187193128">
+        <time>2011-10-29T12:34:32Z</time>
+        <name>Press Edit to change the name: 29 Oct 2011 13:34:32</name>
+      </wpt>
+      <wpt lat="57.5955351956" lon="-4.6665441484">
+        <time>2011-10-29T12:45:04Z</time>
+        <name>Press Edit to change the name: 29 Oct 2011 13:45:04</name>
+      </wpt>
+      <wpt lat="57.6132349719" lon="-4.8420641808">
+        <time>2011-10-29T12:54:56Z</time>
+        <name>Press Edit to change the name: 29 Oct 2011 13:54:56</name>
+      </wpt>
+      <wpt lat="57.6104680523" lon="-4.9191235285">
+        <time>2011-10-29T13:04:40Z</time>
+        <name>Press Edit to change the name: 29 Oct 2011 14:04:40</name>
+      </wpt>
+      <wpt lat="57.5763619766" lon="-5.1807626479">
+        <time>2011-10-29T13:15:04Z</time>
+        <name>Press Edit to change the name: 29 Oct 2011 14:15:04</name>
+      </wpt>
+      <wpt lat="57.6049410150" lon="-5.3045383814">
+        <time>2011-10-29T13:24:40Z</time>
+        <name>Press Edit to change the name: 29 Oct 2011 14:24:40</name>
+      </wpt>
+      <wpt lat="57.6641394430" lon="-5.4349139286">
+        <time>2011-10-29T13:34:40Z</time>
+        <name>Press Edit to change the name: 29 Oct 2011 14:34:40</name>
+      </wpt>
+      <wpt lat="57.6639351900" lon="-5.4349306975">
+        <time>2011-10-29T13:44:40Z</time>
+        <name>Press Edit to change the name: 29 Oct 2011 14:44:40</name>
+      </wpt>
+      <wpt lat="57.6809884256" lon="-5.5161180205">
+        <time>2011-10-29T13:54:32Z</time>
+        <name>Press Edit to change the name: 29 Oct 2011 14:54:32</name>
+      </wpt>
+      <wpt lat="57.6839232223" lon="-5.5430197354">
+        <time>2011-10-29T14:04:48Z</time>
+        <name>Press Edit to change the name: 29 Oct 2011 15:04:48</name>
+      </wpt>
+      <wpt lat="57.6959768063" lon="-5.5759851414">
+        <time>2011-10-29T14:14:24Z</time>
+        <name>Press Edit to change the name: 29 Oct 2011 15:14:24</name>
+      </wpt>
+      <wpt lat="57.7314639972" lon="-5.7345685822">
+        <time>2011-10-29T14:24:56Z</time>
+        <name>Press Edit to change the name: 29 Oct 2011 15:24:56</name>
+      </wpt>
+      <wpt lat="57.7822257975" lon="-5.8012415058">
+        <time>2011-10-29T14:34:56Z</time>
+        <name>Press Edit to change the name: 29 Oct 2011 15:34:56</name>
+      </wpt>
+      <wpt lat="57.8366260736" lon="-5.8066292118">
+        <time>2011-10-29T14:44:56Z</time>
+        <name>Press Edit to change the name: 29 Oct 2011 15:44:56</name>
+      </wpt>
+      <wpt lat="57.8591222846" lon="-5.8105586174">
+        <time>2011-10-29T14:54:48Z</time>
+        <name>Press Edit to change the name: 29 Oct 2011 15:54:48</name>
+      </wpt>
+      <wpt lat="57.8404903833" lon="-5.8032604604">
+        <time>2011-10-29T15:24:40Z</time>
+        <name>Press Edit to change the name: 29 Oct 2011 16:24:40</name>
+      </wpt>
+      <wpt lat="57.7882327494" lon="-5.7989707881">
+        <time>2011-10-29T15:35:04Z</time>
+        <name>Press Edit to change the name: 29 Oct 2011 16:35:04</name>
+      </wpt>
+      <wpt lat="57.7688316633" lon="-5.7928071068">
+        <time>2011-10-29T15:44:48Z</time>
+        <name>Press Edit to change the name: 29 Oct 2011 16:44:48</name>
+      </wpt>
+      <wpt lat="57.7374503781" lon="-5.7633771627">
+        <time>2011-10-29T15:54:32Z</time>
+        <name>Press Edit to change the name: 29 Oct 2011 16:54:32</name>
+      </wpt>
+      <wpt lat="57.7239179573" lon="-5.6890361739">
+        <time>2011-10-29T16:04:40Z</time>
+        <name>Press Edit to change the name: 29 Oct 2011 17:04:40</name>
+      </wpt>
+      <wpt lat="57.6875100601" lon="-5.5948145532">
+        <time>2011-10-29T16:14:48Z</time>
+        <name>Press Edit to change the name: 29 Oct 2011 17:14:48</name>
+      </wpt>
+      <wpt lat="57.6036659521" lon="-5.2908905165">
+        <time>2011-10-29T16:34:40Z</time>
+        <name>Press Edit to change the name: 29 Oct 2011 17:34:40</name>
+      </wpt>
+      <wpt lat="57.5552703030" lon="-5.1043759799">
+        <time>2011-10-29T16:44:48Z</time>
+        <name>Press Edit to change the name: 29 Oct 2011 17:44:48</name>
+      </wpt>
+      <wpt lat="57.4884947305" lon="-5.2878352298">
+        <time>2011-10-29T16:54:48Z</time>
+        <name>Press Edit to change the name: 29 Oct 2011 17:54:48</name>
+      </wpt>
+      <wpt lat="57.4502253450" lon="-5.4014509236">
+        <time>2011-10-29T17:04:48Z</time>
+        <name>Press Edit to change the name: 29 Oct 2011 18:04:48</name>
+      </wpt>
+      <wpt lat="57.3993754389" lon="-5.4538886563">
+        <time>2011-10-29T17:14:40Z</time>
+        <name>Press Edit to change the name: 29 Oct 2011 18:14:40</name>
+      </wpt>
+      <wpt lat="57.3525913993" lon="-5.5281709310">
+        <time>2011-10-29T17:24:56Z</time>
+        <name>Press Edit to change the name: 29 Oct 2011 18:24:56</name>
+      </wpt>
+      <wpt lat="57.2891601359" lon="-5.5714432048">
+        <time>2011-10-29T17:34:56Z</time>
+        <name>Press Edit to change the name: 29 Oct 2011 18:34:56</name>
+      </wpt>
+      <wpt lat="57.2778755430" lon="-5.5200498558">
+        <time>2011-10-29T17:44:48Z</time>
+        <name>Press Edit to change the name: 29 Oct 2011 18:44:48</name>
+      </wpt>
+      <wpt lat="57.2739404429" lon="-5.5133531102">
+        <time>2011-10-29T17:54:40Z</time>
+        <name>Press Edit to change the name: 29 Oct 2011 18:54:40</name>
+      </wpt>
+      <wpt lat="57.2179827824" lon="-5.4199624765">
+        <time>2011-10-29T18:05:12Z</time>
+        <name>Press Edit to change the name: 29 Oct 2011 19:05:12</name>
+      </wpt>
+      <wpt lat="57.1696639706" lon="-5.2969566103">
+        <time>2011-10-29T18:14:48Z</time>
+        <name>Press Edit to change the name: 29 Oct 2011 19:14:48</name>
+      </wpt>
+      <wpt lat="57.1534725972" lon="-5.1285479953">
+        <time>2011-10-29T18:24:48Z</time>
+        <name>Press Edit to change the name: 29 Oct 2011 19:24:48</name>
+      </wpt>
+      <wpt lat="57.1396758975" lon="-4.9523244063">
+        <time>2011-10-29T18:35:04Z</time>
+        <name>Press Edit to change the name: 29 Oct 2011 19:35:04</name>
+      </wpt>
+      <wpt lat="57.0832017815" lon="-4.9351366904">
+        <time>2011-10-29T18:44:24Z</time>
+        <name>Press Edit to change the name: 29 Oct 2011 19:44:24</name>
+      </wpt>
+      <wpt lat="57.0688068569" lon="-4.7884398965">
+        <time>2011-10-29T18:54:24Z</time>
+        <name>Press Edit to change the name: 29 Oct 2011 19:54:24</name>
+      </wpt>
+      <wpt lat="56.9786248640" lon="-4.8816839160">
+        <time>2011-10-29T19:04:48Z</time>
+        <name>Press Edit to change the name: 29 Oct 2011 20:04:48</name>
+      </wpt>
+      <wpt lat="56.9683964539" lon="-4.8940268399">
+        <time>2011-10-29T19:14:24Z</time>
+        <name>Press Edit to change the name: 29 Oct 2011 20:14:24</name>
+      </wpt>
+      <wpt lat="56.8364701583" lon="-5.0736391458">
+        <time>2011-10-29T19:24:56Z</time>
+        <name>Press Edit to change the name: 29 Oct 2011 20:24:56</name>
+      </wpt>
+      <wpt lat="56.8238537480" lon="-5.1040500291">
+        <time>2011-10-29T19:34:32Z</time>
+        <name>Press Edit to change the name: 29 Oct 2011 20:34:32</name>
+      </wpt>
+      <wpt lat="56.8423090589" lon="-5.0975577754">
+        <time>2011-10-29T19:44:24Z</time>
+        <name>Press Edit to change the name: 29 Oct 2011 20:44:24</name>
+      </wpt>
+      <wpt lat="56.8366015366" lon="-5.1033974930">
+        <time>2011-10-29T19:54:24Z</time>
+        <name>Press Edit to change the name: 29 Oct 2011 20:54:24</name>
+      </wpt>
+      <wpt lat="56.8349533460" lon="-5.1010589079">
+        <time>2011-10-29T20:04:24Z</time>
+        <name>Press Edit to change the name: 29 Oct 2011 21:04:24</name>
+      </wpt>
+      <wpt lat="56.8290878092" lon="-5.1045055288">
+        <time>2011-10-29T20:14:24Z</time>
+        <name>Press Edit to change the name: 29 Oct 2011 21:14:24</name>
+      </wpt>
+      <wpt lat="56.8342066406" lon="-5.1065030418">
+        <time>2011-10-29T20:24:24Z</time>
+        <name>Press Edit to change the name: 29 Oct 2011 21:24:24</name>
+      </wpt>
+      <wpt lat="56.8342066406" lon="-5.1065030418">
+        <time>2011-10-29T20:32:08Z</time>
+        <name>Press Edit to change the name: 29 Oct 2011 21:32:08</name>
+      </wpt>
+      <wpt lat="56.8367124451" lon="-5.0882469925">
+        <time>2011-10-30T07:45:28Z</time>
+        <name>Press Edit to change the name: 30 Oct 2011 07:45:28</name>
+      </wpt>
+      <wpt lat="56.8343194343" lon="-5.1183019143">
+        <time>2011-10-30T07:55:12Z</time>
+        <name>Press Edit to change the name: 30 Oct 2011 07:55:12</name>
+      </wpt>
+      <wpt lat="56.8702153670" lon="-5.4352818917">
+        <time>2011-10-30T08:05:36Z</time>
+        <name>Press Edit to change the name: 30 Oct 2011 08:05:36</name>
+      </wpt>
+      <wpt lat="56.8709259290" lon="-5.4339672809">
+        <time>2011-10-30T08:15:36Z</time>
+        <name>Press Edit to change the name: 30 Oct 2011 08:15:36</name>
+      </wpt>
+      <wpt lat="56.8689625536" lon="-5.4305287496">
+        <time>2011-10-30T08:25:12Z</time>
+        <name>Press Edit to change the name: 30 Oct 2011 08:25:12</name>
+      </wpt>
+      <wpt lat="56.8717675676" lon="-5.4413986809">
+        <time>2011-10-30T08:36:00Z</time>
+        <name>Press Edit to change the name: 30 Oct 2011 08:36:00</name>
+      </wpt>
+      <wpt lat="56.8731626253" lon="-5.4625437837">
+        <time>2011-10-30T08:45:12Z</time>
+        <name>Press Edit to change the name: 30 Oct 2011 08:45:12</name>
+      </wpt>
+      <wpt lat="56.8866688757" lon="-5.6406368246">
+        <time>2011-10-30T08:55:20Z</time>
+        <name>Press Edit to change the name: 30 Oct 2011 08:55:20</name>
+      </wpt>
+      <wpt lat="56.8865970938" lon="-5.6406892022">
+        <time>2011-10-30T09:05:28Z</time>
+        <name>Press Edit to change the name: 30 Oct 2011 09:05:28</name>
+      </wpt>
+      <wpt lat="56.8861775129" lon="-5.6408634839">
+        <time>2011-10-30T09:15:36Z</time>
+        <name>Press Edit to change the name: 30 Oct 2011 09:15:36</name>
+      </wpt>
+      <wpt lat="56.8868731103" lon="-5.6406196698">
+        <time>2011-10-30T09:25:44Z</time>
+        <name>Press Edit to change the name: 30 Oct 2011 09:25:44</name>
+      </wpt>
+      <wpt lat="56.8867902175" lon="-5.6408120302">
+        <time>2011-10-30T09:35:36Z</time>
+        <name>Press Edit to change the name: 30 Oct 2011 09:35:36</name>
+      </wpt>
+      <wpt lat="56.8839480175" lon="-5.6994459035">
+        <time>2011-10-30T09:45:44Z</time>
+        <name>Press Edit to change the name: 30 Oct 2011 09:45:44</name>
+      </wpt>
+      <wpt lat="56.8952480695" lon="-5.7467257152">
+        <time>2011-10-30T09:55:36Z</time>
+        <name>Press Edit to change the name: 30 Oct 2011 09:55:36</name>
+      </wpt>
+      <wpt lat="56.9166203895" lon="-5.8499989900">
+        <time>2011-10-30T10:05:52Z</time>
+        <name>Press Edit to change the name: 30 Oct 2011 10:05:52</name>
+      </wpt>
+      <wpt lat="56.9616620189" lon="-5.8259417002">
+        <time>2011-10-30T10:15:28Z</time>
+        <name>Press Edit to change the name: 30 Oct 2011 10:15:28</name>
+      </wpt>
+      <wpt lat="57.0173104805" lon="-5.8505852009">
+        <time>2011-10-30T10:25:12Z</time>
+        <name>Press Edit to change the name: 30 Oct 2011 10:25:12</name>
+      </wpt>
+      <wpt lat="57.0055181592" lon="-5.8291353470">
+        <time>2011-10-30T10:35:28Z</time>
+        <name>Press Edit to change the name: 30 Oct 2011 10:35:28</name>
+      </wpt>
+      <wpt lat="56.9683394417" lon="-5.8212118148">
+        <time>2011-10-30T10:45:28Z</time>
+        <name>Press Edit to change the name: 30 Oct 2011 10:45:28</name>
+      </wpt>
+      <wpt lat="56.9700017368" lon="-5.7468569786">
+        <time>2011-10-30T10:56:00Z</time>
+        <name>Press Edit to change the name: 30 Oct 2011 10:56:00</name>
+      </wpt>
+      <wpt lat="56.9718003888" lon="-5.7850341788">
+        <time>2011-10-30T11:05:44Z</time>
+        <name>Press Edit to change the name: 30 Oct 2011 11:05:44</name>
+      </wpt>
+      <wpt lat="56.9115824946" lon="-5.8269585089">
+        <time>2011-10-30T11:15:52Z</time>
+        <name>Press Edit to change the name: 30 Oct 2011 11:15:52</name>
+      </wpt>
+      <wpt lat="56.8783213169" lon="-5.6665727520">
+        <time>2011-10-30T11:25:36Z</time>
+        <name>Press Edit to change the name: 30 Oct 2011 11:25:36</name>
+      </wpt>
+      <wpt lat="56.8641823580" lon="-5.8100432005">
+        <time>2011-10-30T11:35:12Z</time>
+        <name>Press Edit to change the name: 30 Oct 2011 11:35:12</name>
+      </wpt>
+      <wpt lat="56.8399551498" lon="-5.8202153825">
+        <time>2011-10-30T11:45:12Z</time>
+        <name>Press Edit to change the name: 30 Oct 2011 11:45:12</name>
+      </wpt>
+      <wpt lat="56.7593776079" lon="-5.7666794319">
+        <time>2011-10-30T11:55:44Z</time>
+        <name>Press Edit to change the name: 30 Oct 2011 11:55:44</name>
+      </wpt>
+      <wpt lat="56.7578402367" lon="-5.8018159115">
+        <time>2011-10-30T12:05:28Z</time>
+        <name>Press Edit to change the name: 30 Oct 2011 12:05:28</name>
+      </wpt>
+      <wpt lat="56.7807071505" lon="-5.8261195235">
+        <time>2011-10-30T12:15:36Z</time>
+        <name>Press Edit to change the name: 30 Oct 2011 12:15:36</name>
+      </wpt>
+      <wpt lat="56.7805859929" lon="-5.8259443829">
+        <time>2011-10-30T12:35:12Z</time>
+        <name>Press Edit to change the name: 30 Oct 2011 12:35:12</name>
+      </wpt>
+      <wpt lat="56.7705872481" lon="-5.8241126724">
+        <time>2011-10-30T12:45:28Z</time>
+        <name>Press Edit to change the name: 30 Oct 2011 12:45:28</name>
+      </wpt>
+      <wpt lat="56.7149443618" lon="-5.7733999771">
+        <time>2011-10-30T12:55:28Z</time>
+        <name>Press Edit to change the name: 30 Oct 2011 12:55:28</name>
+      </wpt>
+      <wpt lat="56.7003380331" lon="-5.6980412671">
+        <time>2011-10-30T13:05:36Z</time>
+        <name>Press Edit to change the name: 30 Oct 2011 13:05:36</name>
+      </wpt>
+      <wpt lat="56.6899669259" lon="-5.6053122301">
+        <time>2011-10-30T13:15:28Z</time>
+        <name>Press Edit to change the name: 30 Oct 2011 13:15:28</name>
+      </wpt>
+      <wpt lat="56.6875698608" lon="-5.4352790623">
+        <time>2011-10-30T13:25:28Z</time>
+        <name>Press Edit to change the name: 30 Oct 2011 13:25:28</name>
+      </wpt>
+      <wpt lat="56.7198086454" lon="-5.2484097758">
+        <time>2011-10-30T13:35:28Z</time>
+        <name>Press Edit to change the name: 30 Oct 2011 13:35:28</name>
+      </wpt>
+      <wpt lat="56.7225690243" lon="-5.2432067860">
+        <time>2011-10-30T13:45:12Z</time>
+        <name>Press Edit to change the name: 30 Oct 2011 13:45:12</name>
+      </wpt>
+      <wpt lat="56.7228156245" lon="-5.2426292585">
+        <time>2011-10-30T13:55:52Z</time>
+        <name>Press Edit to change the name: 30 Oct 2011 13:55:52</name>
+      </wpt>
+      <wpt lat="56.7199489237" lon="-5.2314558860">
+        <time>2011-10-30T14:05:28Z</time>
+        <name>Press Edit to change the name: 30 Oct 2011 14:05:28</name>
+      </wpt>
+      <wpt lat="56.6791632289" lon="-5.2365170643">
+        <time>2011-10-30T14:15:28Z</time>
+        <name>Press Edit to change the name: 30 Oct 2011 14:15:28</name>
+      </wpt>
+      <wpt lat="56.5905839904" lon="-5.3732602987">
+        <time>2011-10-30T14:26:00Z</time>
+        <name>Press Edit to change the name: 30 Oct 2011 14:26:00</name>
+      </wpt>
+      <wpt lat="56.5757419928" lon="-5.3799806697">
+        <time>2011-10-30T14:35:20Z</time>
+        <name>Press Edit to change the name: 30 Oct 2011 14:35:20</name>
+      </wpt>
+      <wpt lat="56.5511925228" lon="-5.3070956026">
+        <time>2011-10-30T14:45:36Z</time>
+        <name>Press Edit to change the name: 30 Oct 2011 14:45:36</name>
+      </wpt>
+      <wpt lat="56.4881776192" lon="-5.4044861539">
+        <time>2011-10-30T14:55:20Z</time>
+        <name>Press Edit to change the name: 30 Oct 2011 14:55:20</name>
+      </wpt>
+      <wpt lat="56.4486775654" lon="-5.3248627437">
+        <time>2011-10-30T15:05:36Z</time>
+        <name>Press Edit to change the name: 30 Oct 2011 15:05:36</name>
+      </wpt>
+      <wpt lat="56.4126780032" lon="-5.1731326022">
+        <time>2011-10-30T15:15:28Z</time>
+        <name>Press Edit to change the name: 30 Oct 2011 15:15:28</name>
+      </wpt>
+      <wpt lat="56.4103545723" lon="-5.0256383202">
+        <time>2011-10-30T15:25:20Z</time>
+        <name>Press Edit to change the name: 30 Oct 2011 15:25:20</name>
+      </wpt>
+      <wpt lat="56.4002615580" lon="-5.0242593255">
+        <time>2011-10-30T15:35:12Z</time>
+        <name>Press Edit to change the name: 30 Oct 2011 15:35:12</name>
+      </wpt>
+      <wpt lat="56.4004738953" lon="-5.0360035681">
+        <time>2011-10-30T15:45:12Z</time>
+        <name>Press Edit to change the name: 30 Oct 2011 15:45:12</name>
+      </wpt>
+      <wpt lat="56.4379639837" lon="-4.8034090285">
+        <time>2011-10-30T15:55:36Z</time>
+        <name>Press Edit to change the name: 30 Oct 2011 15:55:36</name>
+      </wpt>
+      <wpt lat="56.4360184230" lon="-4.7102079860">
+        <time>2011-10-30T16:05:12Z</time>
+        <name>Press Edit to change the name: 30 Oct 2011 16:05:12</name>
+      </wpt>
+      <wpt lat="56.4364899493" lon="-4.7111638267">
+        <time>2011-10-30T16:15:44Z</time>
+        <name>Press Edit to change the name: 30 Oct 2011 16:15:44</name>
+      </wpt>
+      <wpt lat="56.4354894498" lon="-4.7110003804">
+        <time>2011-10-30T16:25:36Z</time>
+        <name>Press Edit to change the name: 30 Oct 2011 16:25:36</name>
+      </wpt>
+      <wpt lat="56.4360818253" lon="-4.7112093350">
+        <time>2011-10-30T16:35:12Z</time>
+        <name>Press Edit to change the name: 30 Oct 2011 16:35:12</name>
+      </wpt>
+      <wpt lat="56.4436389151" lon="-4.3860458904">
+        <time>2011-10-30T16:45:12Z</time>
+        <name>Press Edit to change the name: 30 Oct 2011 16:45:12</name>
+      </wpt>
+      <wpt lat="56.3904833287" lon="-4.2879785446">
+        <time>2011-10-30T16:55:12Z</time>
+        <name>Press Edit to change the name: 30 Oct 2011 16:55:12</name>
+      </wpt>
+      <wpt lat="56.2754246922" lon="-4.2617158013">
+        <time>2011-10-30T17:05:20Z</time>
+        <name>Press Edit to change the name: 30 Oct 2011 17:05:20</name>
+      </wpt>
+      <wpt lat="56.2426356342" lon="-4.2141759371">
+        <time>2011-10-30T17:15:12Z</time>
+        <name>Press Edit to change the name: 30 Oct 2011 17:15:12</name>
+      </wpt>
+      <wpt lat="56.1848578882" lon="-4.1338467996">
+        <time>2011-10-30T17:25:12Z</time>
+        <name>Press Edit to change the name: 30 Oct 2011 17:25:12</name>
+      </wpt>
+      <wpt lat="56.1575535208" lon="-3.9580119010">
+        <time>2011-10-30T17:35:12Z</time>
+        <name>Press Edit to change the name: 30 Oct 2011 17:35:12</name>
+      </wpt>
+      <wpt lat="56.1231523734" lon="-3.9461886559">
+        <time>2011-10-30T17:45:28Z</time>
+        <name>Press Edit to change the name: 30 Oct 2011 17:45:28</name>
+      </wpt>
+      <wpt lat="56.1230462705" lon="-3.9457477568">
+        <time>2011-10-30T17:55:12Z</time>
+        <name>Press Edit to change the name: 30 Oct 2011 17:55:12</name>
+      </wpt>
+      <wpt lat="56.1230462705" lon="-3.9457477568">
+        <time>2011-10-30T18:00:24Z</time>
+        <name>Press Edit to change the name: 30 Oct 2011 18:00:24</name>
+      </wpt>
+</gpx>
